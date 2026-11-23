@@ -16,9 +16,9 @@ Traducción no oficial al castellano (España) de **Pokémon Midnight**, el hack
 2. Aplica el parche [`PokemonMidnight_ES.bps`](https://github.com/SeCaVa/PokemonMidnight-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de Game Boy Color con **CRC32 `64F4E13D`**. Juega con cualquier emulador de GBC.
+3. El resultado es una ROM de Game Boy Color con **CRC32 `8F501051`**. Juega con cualquier emulador de GBC.
 
-Versión actual: **v0.17**. SHA-256 del parche: `08b6b219332a8fe441480355a6756413a62f698c12dd22053b928e326ab92dd4`.
+Versión actual: **v0.18**. SHA-256 del parche: `7c39dc8ee2816ca9abea481535542b0723a1d4d8b7f85cbc5542aa2d2cb9e633`.
 
 El parche se aplica **directamente a Pokémon Gold USA**: no hace falta conseguir el hack alemán, porque ya lo incluye.
 
@@ -72,9 +72,9 @@ Unofficial **Spanish (Spain) translation** of **Pokémon Midnight**, the German 
 2. Apply the patch [`PokemonMidnight_ES.bps`](https://github.com/SeCaVa/PokemonMidnight-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a Game Boy Color ROM with **CRC32 `64F4E13D`**. Play it on any GBC emulator.
+3. The result is a Game Boy Color ROM with **CRC32 `8F501051`**. Play it on any GBC emulator.
 
-Current version: **v0.17**. Patch SHA-256: `08b6b219332a8fe441480355a6756413a62f698c12dd22053b928e326ab92dd4`.
+Current version: **v0.18**. Patch SHA-256: `7c39dc8ee2816ca9abea481535542b0723a1d4d8b7f85cbc5542aa2d2cb9e633`.
 
 The patch applies **directly to Pokémon Gold USA**: you don't need the German hack, it's already included.
 
